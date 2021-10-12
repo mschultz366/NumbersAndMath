@@ -1,3 +1,5 @@
+// Program allows user to enter item costs
+// then outputs taxes and total
 fun main() {
 
     var total = 0.0
